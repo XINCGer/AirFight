@@ -1,0 +1,11 @@
+{
+	"start":"开始游戏",
+	"setting":"设置",
+	"exitGame":"退出游戏",
+	"info":"马三小伙儿",
+	"restart":"重新开始",
+	"win":"游戏胜利",
+	"returnMenu":"返回主菜单",
+	"bgMusic":"背景音乐",
+	"effectMusic":"音效音量"
+}

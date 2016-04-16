@@ -7,5 +7,8 @@
 分数统计，菜单管理等功能。  
 
 ##程序下载  
-WIN版：(https://yunpan.cn/cqNbNJLnTemSj)  访问密码 09b0
-Android版：(https://yunpan.cn/cqN9AjCz8ibBX )  访问密码 415f
+> WIN版：[点我下载](https://yunpan.cn/cqNbNJLnTemSj)  访问密码 09b0  
+Android版：[点我下载](https://yunpan.cn/cqN9AjCz8ibBX )  访问密码 415f  
+
+##教程
+> 关于本游戏的教程将于随后推出，欢迎各位看官持续关注！(◕ܫ◕) 

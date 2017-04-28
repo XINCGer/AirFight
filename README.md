@@ -8,7 +8,7 @@
 ![](http://ww3.sinaimg.cn/large/9c3ad739jw1f2zghqd3btj20i80pc78p.jpg)
 
 ## 程序下载  
-> WIN版：[点我下载](http://pan.baidu.com/s/1gfstddT)  访问密码 dl7q 
+> WIN版：[点我下载](http://pan.baidu.com/s/1gfstddT)  访问密码 dl7q   
 Android版：[点我下载](http://pan.baidu.com/s/1sllTerj)  访问密码 1ywn  
 
 ## 教程

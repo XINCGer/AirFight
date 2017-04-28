@@ -8,8 +8,8 @@
 ![](http://ww3.sinaimg.cn/large/9c3ad739jw1f2zghqd3btj20i80pc78p.jpg)
 
 ## 程序下载  
-> WIN版：[点我下载](https://yunpan.cn/cqNbNJLnTemSj)  访问密码 09b0  
-Android版：[点我下载](https://yunpan.cn/cqN9AjCz8ibBX )  访问密码 415f  
+> WIN版：[点我下载](链接：http://pan.baidu.com/s/1gfstddT)  访问密码 dl7q 
+Android版：[点我下载](链接：http://pan.baidu.com/s/1sllTerj)  访问密码 1ywn  
 
 ## 教程
 > 关于本游戏的教程将于随后推出，欢迎各位看官持续关注！(◕ܫ◕) 
